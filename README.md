@@ -1,1 +1,1 @@
-# mazes
+# Mazes
