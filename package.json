@@ -1,9 +1,12 @@
 {
   "name": "mazes",
   "description": "A modular maze generation library.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "maze.js",
-  "keywords": ["maze"],
+  "keywords": [
+    "maze",
+    "generation"
+  ],
   "author": "Joey Van Lierop",
   "repository": {
     "type": "git",
