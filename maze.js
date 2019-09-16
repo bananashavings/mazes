@@ -87,5 +87,8 @@ class Maze {
 }
 
 module.exports = {
-  Maze
+  Maze,
+  MazeGenerator,
+  KruskalGenerator,
+  RecursiveBacktrackerGenerator
 };

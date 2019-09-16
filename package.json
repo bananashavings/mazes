@@ -1,7 +1,7 @@
 {
   "name": "mazes",
   "description": "A modular maze generation library.",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "main": "maze.js",
   "keywords": [
     "maze",
@@ -12,8 +12,5 @@
     "type": "git",
     "url": "git@github.com:bananashavings/mazes.git"
   },
-  "license": "ISC",
-  "dependencies": {
-    "fs": "0.0.1-security"
-  }
+  "license": "ISC"
 }
